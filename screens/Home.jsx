@@ -33,7 +33,7 @@ const Home = ({ navigation }) => {
     {
       title: 'Not So "Final" Fantasy',
       rating: 3,
-      body: "Play Station sux",
+      body: "Find yourself an Xbox",
       key: 3,
     },
   ]);
